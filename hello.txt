@@ -1,1 +1,2 @@
-Kita akan mempelajari cara penggunaan github
+# Hello World
+Test Konflik 1234
