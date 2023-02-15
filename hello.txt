@@ -1,4 +1,2 @@
 # Hello World
-ini dibuat untuk test konflik 4321
------
-Update Squash 3
+
